@@ -1,6 +1,5 @@
 # 🚀 Ciberistas - Plataforma de Cursos de Ciberseguridad
 
-![Ciberistas Logo](frontend/public/favicon.ico)
 
 ## 📋 Descripción del Proyecto
 
